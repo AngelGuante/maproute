@@ -34,7 +34,8 @@ You can see a working example of the app [here](#). (Include a link if you have 
 5. Start the development server:
     ```bash
     npm run dev
-The app will be running at http://localhost:3000.
 6. How it looks like:
-![alt text](image.png)
-![alt text](image-1.png)
+   ![alt text](image.png)
+   ![alt text](image-1.png)
+
+The app will be running at http://localhost:3000.
